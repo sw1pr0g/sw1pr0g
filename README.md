@@ -9,6 +9,16 @@
   </a>
 </div>
 
+<h2>Hi!👋</h2>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SW1pr0g.SW1pr0g)](https://github.com/SW1pr0g) [![GitHub followers](https://img.shields.io/github/followers/SW1pr0g.svg?style=social&label=Follow)](https://github.com/SW1pr0g?tab=followers)
+
+I'm Alex Poryadin(SW1pr0g)! 
+- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
+- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+
+
+
 <p align="center">Languages and Tools :</p>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
