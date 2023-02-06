@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -20,25 +20,15 @@
 
 
 
+## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/SW1pr0g/SW1pr0g">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW1pr0g&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/SW1pr0g/SW1pr0g">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SW1pr0g&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-
-
-
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW1pr0g&layout=compact" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SW1pr0g" />
-</div>
-
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=SW1pr0g" />
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<a href="https://github.com/SW1pr0g/goxtype_android">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SW1pr0g&repo=goxtype_android&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
