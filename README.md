@@ -1,10 +1,9 @@
 
 <div>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GitHub Stats" width="200" align="left"/>    
-    
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GitHub Stats" width="200" align="left"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SW1pr0g" alt="GitHub Stats" align="right"/>
 </div>
-<br></br>
+<p></p>
 <br></br>
 <br></br>
 <h2>Hi!👋</h2>
