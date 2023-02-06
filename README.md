@@ -1,21 +1,20 @@
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="GitHub Stats" width="200" align="left"/>    
+    
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SW1pr0g" alt="GitHub Stats" align="right"/>
 </div>
-
-<div id="badges" align="center">
-  <a href="https://twitter.com/SW1pr0g">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
+<br>
+<br>
+<br>
+<br>
 <h2>Hi!👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SW1pr0g.SW1pr0g)](https://github.com/SW1pr0g) [![GitHub followers](https://img.shields.io/github/followers/SW1pr0g.svg?style=social&label=Follow)](https://github.com/SW1pr0g?tab=followers)
 
 I'm Alex Poryadin(SW1pr0g)! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+- <i>Currently:</i> Junior Android Developer at Telemetry LLC. 
+- <i>Previously:</i> Student at Programming faculty of Technical College.
 
 
 
@@ -31,7 +30,7 @@ I'm Alex Poryadin(SW1pr0g)!
 </div>
 
 
-<!-- Uncomment later <img src="https://github-readme-streak-stats.herokuapp.com/?user=SW1pr0g" alt="GitHub Stats" />-->
+
 
 
 ## &#x1f4c8; GitHub Stats
