@@ -10,10 +10,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SW1pr0g.SW1pr0g)](https://github.com/SW1pr0g) [![GitHub followers](https://img.shields.io/github/followers/SW1pr0g.svg?style=social&label=Follow)](https://github.com/SW1pr0g?tab=followers)
 
-I'm Alex Poryadin(SW1pr0g)! 
-- <i>Currently:</i> Junior Android Developer at Telemetry LLC. 
-- <i>Previously:</i> Student at Programming faculty of Technical College.
-<br></br>
+I'm SW1pr0g! 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="100" height="100"/>&nbsp;
