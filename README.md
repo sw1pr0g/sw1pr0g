@@ -5,7 +5,9 @@
 
 <details>
 <summary><b>Gopher</b></summary>
+    
 ![gopher](https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif)
+
 </details>
 
 <h6 align="right">
