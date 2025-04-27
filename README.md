@@ -5,7 +5,7 @@
     <img alt="License badge" src="https://img.shields.io/badge/Favorite%20License-MIT-%23e05d44" />
 </p>
 
-- Primary Programming Languages: Go, Python
+- Primary Programming Languages: Go, Python, TypeScript
 - Resume: [resume.pdf](https://github.com/sw1pr0g/resume/blob/main/resume.pdf)
   <sub><sup>([source](https://github.com/sw1pr0g/resume/blob/main/resume.json))</sup></sub>
 
