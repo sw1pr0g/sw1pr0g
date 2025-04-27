@@ -1,7 +1,7 @@
 {
   "favorite_language": "Go",
   "favorite_license": "MIT",
-  "primary_languages": ["Go", "Python"],
+  "primary_languages": ["Go", "Python", "TypeScript"],
   "resume_link": "https://github.com/sw1pr0g/resume/blob/main/resume.pdf",
   "resume_source_link": "https://github.com/sw1pr0g/resume/blob/main/resume.json"
 }
