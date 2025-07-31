@@ -2,6 +2,7 @@
 
 <p align="center">
     <img alt="Language badge" src="https://img.shields.io/badge/Favorite%20Language-Go-%2386d4de" />
+    <img alt="Language badge" src="https://img.shields.io/badge/Favorite%20Language-Python-%ffd43b" />
     <img alt="License badge" src="https://img.shields.io/badge/Favorite%20License-MIT-%23e05d44" />
 </p>
 
